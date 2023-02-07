@@ -1,6 +1,6 @@
-# Daily learning
+Daily learning
 
-## API Weather Forecast
+# API Weather Forecast
 
 Project developed in Bootcamp Avanade Fullstack Developer with expert instruction [João Victor Ghignatti](https://github.com/JGhignatti "João Victor Ghignatti").</br>
 Learning to create a weather forecast application using Angular as front-end technology consuming an external API.
